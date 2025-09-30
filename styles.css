@@ -21,13 +21,15 @@ a:hover {
     color: maroon;
 }
 
-.funfact{
-    width:fit-content;
-    background-color: aqua;
+.middle{
+    text-align: center;
 }
 
-#fact1 {
-    color:coral;
-    font-style: italic;
-    text-decoration: line-through;
+#factbox{
+    padding-left: 35%;
+    padding-right: 35%;
+}
+
+#factcolor{
+    background-color:aquamarine;
 }
