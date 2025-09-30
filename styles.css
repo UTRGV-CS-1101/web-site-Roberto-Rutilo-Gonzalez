@@ -51,3 +51,9 @@ body{
     background-size:50px;
     background-color: pink;
 }
+
+.audio-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
